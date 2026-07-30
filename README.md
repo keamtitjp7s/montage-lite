@@ -1,2 +1,9 @@
 # montage-lite
-Lightweight agentic video production orchestrator with budget-cap and cost tracking. Upgraded from OpenMontage.
+
+Lightweight agentic video production orchestrator.
+
+Upgraded from [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage).
+
+```bash
+npm start -- --brief "30s product teaser"
+```
